@@ -1,0 +1,4 @@
+ChromeDriver 102.0.5005.61 mac driver is used
+geckodriver-v0.31.0 mac driver is used
+
+Before the test runs, information must be entered in the properties file.
